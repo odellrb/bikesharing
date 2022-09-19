@@ -14,7 +14,7 @@ The purpose of this analysis is to create a proposal that supports investors to 
 The results of the analysis and visualizations are shown below:
 
 ![Bikesharing](map.png)
-![Bikesharing](Aug peak hours.png)
+![Bikesharing](Aug_peak_hours.png)
 ![Bikesharing](Q1.png)
 ![Bikesharing](Q2.png)
 ![Bikesharing](Q3.png)
