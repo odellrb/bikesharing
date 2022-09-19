@@ -1,7 +1,7 @@
 ![Bikesharing](CityBike.png)
 
 # Bike sharing
-[link to dashboard](https://public.tableau.com/app/profile/richard.b.odell.jr/viz/CitiBikeStory_16635601503250/CitibikeStory?publish=yes "link to dashboard")
+Click here to view the Tableau dashboard: [Citibike Analysis Dashboard](https://public.tableau.com/app/profile/richard.b.odell.jr/viz/CitiBikeStory_16635601503250/CitibikeStory?publish=yes "link to dashboard")
 
 ## Overview of Analysis
 The purpose of this analysis is to create a proposal that supports investors to support a bike-sharing program in Des Moines, Iowa. From the given dataset, we were able to create visualizations to see average biking durations trends and the relationships between gender and popular biking times. Specifically, this set of visualizations:
