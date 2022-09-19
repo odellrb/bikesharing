@@ -1,4 +1,4 @@
-![Bikesharing](.png)
+![Bikesharing](CityBike.png)
 
 # Bike sharing
 [link to dashboard](https://public.tableau.com/app/profile/richard.b.odell.jr/viz/CitiBikeStory_16635601503250/CitibikeStory?publish=yes "link to dashboard")
@@ -13,7 +13,11 @@ The purpose of this analysis is to create a proposal that supports investors to 
 ## Results
 The results of the analysis and visualizations are shown below:
 
-
+![Bikesharing](map.png)
+![Bikesharing](Aug peak hours.png)
+![Bikesharing](Q1.png)
+![Bikesharing](Q2.png)
+![Bikesharing](Q3.png)
 
 
 
