@@ -27,7 +27,7 @@ The results of the analysis and visualizations are shown below:
 
 Based off of the analysis, we can infer that many of these users may not be tourists but rather work commuters, as most of the peak times are around morning and evening commute. Additionally, a majority of the users were male riders. Although this may not be anything significant, but it's useful for future marketing campaings. Another significant point that can be made is that most of the ride durations peaked at around 5 minutes. If there were to be a bike-sharing program set up in Des Moines, it would help if each station can be set up within 10 minutes of biking distance from each other. This is because we need to take into account that NYC is a large city, where as Des Moines is mainly suburbs. Places tend to be farther apart in suburbs compared to places in large cities.
 
-Additional analysis would be beneficial by :
+Additional Visiualizations could include the following :
 
 - comparing data for different months to determine trends across the year.
 - including weather data to find the correlation between the weather and the rides.
